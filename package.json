@@ -1,0 +1,14 @@
+{
+  "name": "cube-athena",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.31.29",
+  "devDependencies": {
+    "@cubejs-backend/athena-driver": "^0.31.29",
+    "@cubejs-backend/server": "^0.31.29"
+  }
+}
